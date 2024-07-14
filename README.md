@@ -1,7 +1,3 @@
-# Git Tutorials
+# Tutorial 2
 
-Every day is a learning day
-
-## Subheader
-
-Comitting
+Some text
